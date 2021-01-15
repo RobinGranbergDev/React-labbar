@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.book {
+    margin: 2rem;
+    padding: 1rem;
+    background-color: rgb(248, 248, 248);
+    border-radius: 5px;
+}
+
+.book p, .bookOutline p {
+    font-size: 20px;
+}
+
+.bookOutline {
+    border: 1px solid #3f3f3f;
+    margin: 2rem;
+    padding: 1rem;
+    background-color: rgb(248, 248, 248);
+    border-radius: 5px;
+}
